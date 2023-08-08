@@ -1,0 +1,15 @@
+name: ast4310
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - numba
+  - scipy
+  - astropy
+  - matplotlib
+  - jupyterlab
+  - ipympl
+  - bqplot
+  - pyyaml
+  - tqdm
