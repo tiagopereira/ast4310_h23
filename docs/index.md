@@ -11,7 +11,7 @@ These pages contain a description of AST4310 and additional resources. The pages
 
 
 ## Communication
-- TBA
+- If you want to place questions about any aspect of AST4310, please use the Discourse forum [https://astro-discourse.uio.no/c/AST4310-23H](https://astro-discourse.uio.no/c/AST4310-23H) (UiO login)
 
 ## Assessment
 
