@@ -30,16 +30,27 @@ In addition to the notebook file, you should upload also all necessary files to 
 
 ## Grading
 
-The project weights are specified in the table at the top of this page. Each project will have a numerical grade between 0 and 100, and the final grade is the weighed sum of all project grades (50%) plus the grade from the oral exam (50%), rounded to the closest integer. The final numerical grade will be converted to the A-F scale according to the usual scale:
+### Final grade
 
-| Points | Grade |
-|:-------:|:-----|
-| 92 - 100 |  A |
-| 77 - 91 |  B |
-| 58 - 76  | C |
-| 46 - 57 |  D |
-| 40 - 45 |  E |
-| 0 - 39 |  F |
+The final grade is the 50/50 average of the final grade for all projects (numerical, from 0 to 100) and the grade from the oral exam (letter, from F to A). To convert project and oral exam grades to the final grade, we will use the following table, where the rows are different project grades and the columns different oral exam grades:
+
+  |Project / Oral |  F |  E |  D  | C |  B |  A|
+  |:---------:|----------|----|----|----|----|----|
+  |**0-39**     |  F |  F |  F |  F |  F |  F |
+  |**40-45**    |  F |  E |  E |  D |  D |  C |
+  |**46-51**    |  F |  E |  D |  D |  C |  C |
+  |**52-57**    |  F |  D |  D |  C |  C |  C |
+  |**58-67**    |  F |  D |  D |  C |  C |  B |
+  |**67-76**    |  F |  D |  C |  C |  B |  B |
+  |**77-84**    |  F |  C |  C |  C |  B |  B |
+  |**85-91**    |  F |  C |  C |  B |  B |  A |
+  |**92-96**    |  F |  C |  C |  B |  B |  A |
+  |**96-100**   |  F |  C |  B |  B |  A |  A |
+
+
+### Project grade
+
+The project weights are specified in the table at the top of this page. Each project will have a numerical grade between 0 and 100, and the final project grade is the weighed sum of all project grades, rounded to the closest integer. 
 
 For the 100 points assigned to each project, 95 points are for the report itself (Jupyter notebook), and 5 points are given for peer review. 
 
